@@ -1,0 +1,15 @@
+{
+  "name": "CFrameUtils",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Packages": {
+        "$className": "Folder",
+        "CFrameUtils": {
+          "$path": "src"
+        }
+      }
+    }
+  }
+}
